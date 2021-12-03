@@ -9,6 +9,8 @@
       <ul class="sidebar-menu">
           <li><a class="nav-link" href="/dashboard"><i class="fas fa-fire"></i> <span>Dashboard</span></a></li>
           <li><a class="nav-link" href="/post"><i class="fas fa-newspaper"></i> <span>Post</span></a></li>
+          <li><a class="nav-link" href="/user"><i class="fas fa-user"></i> <span>User</span></a></li>
+          <li><a class="nav-link" href="/diskusi"><i class="fa-reguler fa-comments"></i> <span>Diskusi</span></a></li>
           <li><a class="nav-link" href="/credit"><i class="fas fa-pencil-ruler"></i> <span>Credit</span></a></li>
         </ul>
 
